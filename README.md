@@ -8,4 +8,4 @@ https://www.bigmountainstudio.com/members/posts/27630-how-do-i-add-a-global-acce
 
 However action sheets behave oddly.
 
-![Image of Bug](https://github.com/edwurtle/GlobalTintBug/blob/main/TintBug.gif | width=200)
+![Image of Bug](https://github.com/edwurtle/GlobalTintBug/blob/main/TintBug.gif =250x250)
